@@ -2,7 +2,7 @@
   "short_name": "my App",
   "name": "Basic PWA",
 
-  "start_url": "https://alon4455.github.io/sw.github.io/",
+  "start_url": "/https://alon4455.github.io/sw.github.io/",
   "display": "standalone",
   "theme_color": "#ccc",
   "background_color": "#ccc",
