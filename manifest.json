@@ -2,7 +2,7 @@
   "short_name": "my App",
   "name": "Basic PWA",
 
-  "start_url": "/index",
+  "start_url": "./index.html",
   "display": "standalone",
   "theme_color": "#ccc",
   "background_color": "#ccc",
